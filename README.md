@@ -12,6 +12,10 @@ HTML email signature templates. Christmas email signature templates.
 
 You can add an HTML email signature in the Thunderbird client. <img src="https://blog.thunderbird.net/files/2023/05/1024x1024@2x.png" width="40px">
 
+## Signature
+
+Signature tested with Thunderbird, Gmail, Proton mail clients.
+
 ## Images
 
-I used photo links from <https://www.freepik.com> (background and Santa's face).
+I used photo links from <https://www.freepik.com> (background and Santa's face) links in <https://github.com/atomjoy/signatures/blob/main/img/image-links.txt> file.
