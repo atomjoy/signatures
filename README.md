@@ -7,6 +7,7 @@ HTML email signature templates. Christmas email signature templates.
 <img src="https://raw.githubusercontent.com/atomjoy/signatures/refs/heads/main/screenshots/signature-3.png" width="100%">
 <img src="https://raw.githubusercontent.com/atomjoy/signatures/refs/heads/main/screenshots/signature-2.png" width="100%">
 <img src="https://raw.githubusercontent.com/atomjoy/signatures/refs/heads/main/screenshots/signature-1.png" width="100%">
+<img src="https://raw.githubusercontent.com/atomjoy/signatures/refs/heads/main/screenshots/netflix.png" width="100%">
 
 ## How to add a signature
 
