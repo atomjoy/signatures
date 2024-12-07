@@ -15,7 +15,7 @@ You can add an HTML email signature in the Thunderbird client. <img src="https:/
 
 ## Signature
 
-Signature tested with Thunderbird email client for Gmail, Proton, Yahoo, Interia, Wp, O2 mailboxes.
+Signature tested with Thunderbird smtp email client for Gmail, Proton, Yahoo, Outlook, Interia, Wp, O2 mailboxes.
 
 ## Images
 
