@@ -22,7 +22,7 @@ Signature tested with Thunderbird smtp email client for Gmail, Proton, Yahoo, Ou
 I used photo links from <https://www.freepik.com> (background and Santa's face) links in <https://github.com/atomjoy/signatures/blob/main/img/image-links.txt> file.
 
 
-## BUY Email Signatures
+# BUY Email Signatures
 
 ### Minimal email signatures
 
