@@ -28,6 +28,6 @@ I used photo links from <https://www.freepik.com> (background and Santa's face) 
 
 BUY Minimal email signatures here (10 versions): <https://atomjoy.gumroad.com/l/poaooj>
 
-<img src="https://public-files.gumroad.com/l3g8p4k7uybu7v58tqhbvwgp4kub" width="100%">
+<img src="https://public-files.gumroad.com/u4ax5h3tie6r6fo6yhtlog7oab8h" width="100%">
 
 
