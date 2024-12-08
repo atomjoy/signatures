@@ -20,3 +20,14 @@ Signature tested with Thunderbird smtp email client for Gmail, Proton, Yahoo, Ou
 ## Images
 
 I used photo links from <https://www.freepik.com> (background and Santa's face) links in <https://github.com/atomjoy/signatures/blob/main/img/image-links.txt> file.
+
+
+## BUY Email Signatures
+
+### Minimal email signatures
+
+BUY Minimal email signatures here (10 versions): <https://atomjoy.gumroad.com/l/poaooj>
+
+<img src="https://public-files.gumroad.com/l3g8p4k7uybu7v58tqhbvwgp4kub" width="100%">
+
+
