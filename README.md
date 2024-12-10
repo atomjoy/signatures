@@ -1,6 +1,6 @@
-# How to create HTML email signature
+# HTML Email Signature in Thunderbird
 
-HTML email signature templates. Christmas email signature templates.
+HTML email signature templates. Christmas email signature templates. How to create a Thunderbird signature. Email signature in HTML format.
 
 ## Html email signature
 
@@ -22,7 +22,7 @@ Signature tested with Thunderbird smtp email client for Gmail, Proton, Yahoo, Ou
 I used photo links from <https://www.freepik.com> (background and Santa's face) links in <https://github.com/atomjoy/signatures/blob/main/img/image-links.txt> file.
 
 
-# BUY Email Signatures
+# Buy Email Signatures
 
 ### Minimal email signatures
 
